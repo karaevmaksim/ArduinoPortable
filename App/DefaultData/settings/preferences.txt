@@ -1,0 +1,2 @@
+settings.path=..\..\Data\settings
+update.check=false
