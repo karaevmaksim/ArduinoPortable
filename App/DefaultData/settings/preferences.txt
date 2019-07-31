@@ -1,2 +1,3 @@
+sketchbook.path=..\..\Data\sketchbook
 settings.path=..\..\Data\settings
 update.check=false
